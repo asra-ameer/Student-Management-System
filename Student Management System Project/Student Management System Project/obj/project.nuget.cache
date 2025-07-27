@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "PcZ/EPEcNzA=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\asraa\\OneDrive\\Desktop\\GIT\\Student Management System\\Student Management System Project\\Student Management System Project\\Student Management System Project.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\asraa\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.7\\microsoft.aspnetcore.openapi.9.0.7.nupkg.sha512",
+    "C:\\Users\\asraa\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
